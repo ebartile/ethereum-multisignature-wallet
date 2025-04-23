@@ -34,7 +34,7 @@ This project is designed for server-side use by web developers managing Ethereum
 
 1. Clone the repository.
 
-2. Obtain etheruem network node via [Chainstack Ethereum Node ➝](./CHAINSTACK_DEPLOY.md) or service provider of your chosing
+2. Obtain etheruem network node via [Chainstack Ethereum Node ➝](./docs/CHAINSTACK_DEPLOY.md) or service provider of your chosing
 
 3. Set up your environment variables by editing the `.env` file:
 
