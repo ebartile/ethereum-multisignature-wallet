@@ -43,7 +43,7 @@ This project is designed for server-side use by web developers managing Ethereum
     #  Ethereum Config
     #  (refer to our doc)
     #--------------------------------------------------------------------------
-    DB_DATABASE=ethereum
+    DB_DATABASE=ethereum-api
     DB_USERNAME=root
     DB_PASSWORD=password
     ETHEREUM_WS=wss://ethereum-sepolia.core.chainstack.com/26ed4f10064419ad2e9e41c76464a68f
