@@ -103,7 +103,7 @@ If you'd like to support this project or contribute:
 📧 Email: **ebartile@gmail.com**  
 Hire Me: 🙌 
 
-💰 Ethereum Address: **0xYourEthereumAddressHere**
+💰 Ethereum Address: **0xc62065388fa180ac44769b5252c8ee366be5569d**
 
 ---
 
