@@ -1,0 +1,48 @@
+{
+    "name": "ethereum",
+    "version": "1.0.0",
+    "description": "Ethereum API using Web3",
+    "main": "src/app.js",
+    "keywords": [
+        "ethereum",
+        "multisigniture",
+        "wallet"
+    ],
+    "author": "ebartile@gmail.com",
+    "type": "module",
+    "license": "MIT",
+    "scripts": {
+        "dev": "node src/app.js",
+        "test": "npm run test:ganache",
+        "test:ganache": "cross-env DOTENV_CONFIG_PATH=.env.ganache mocha -r dotenv/config --no-deprecation",
+        "test:goerli": "cross-env DOTENV_CONFIG_PATH=.env.goerli mocha -r dotenv/config --no-deprecation"
+    },
+    "dependencies": {
+        "async-lock": "^1.4.0",
+        "axios": "^0.22.0",
+        "axios-retry": "^3.2.0",
+        "body-parser": "^1.19.0",
+        "constants": "0.0.2",
+        "dotenv": "^16.5.0",
+        "express": "^4.17.1",
+        "express-validator": "^6.12.2",
+        "glob": "^7.2.0",
+        "lodash-es": "^4.17.21",
+        "mkdirp": "^1.0.4",
+        "mongoose": "^6.8.3",
+        "morgan": "^1.10.0",
+        "node-graceful": "^3.1.0",
+        "prettier": "^2.4.1",
+        "ts-node": "^9.0.0",
+        "typescript": "^3.9.7",
+        "uuid": "^9.0.0",
+        "web3": "1.8.1",
+        "web3-core-helpers": "^1.10.3"
+    },
+    "devDependencies": {
+        "chai": "^4.3.7",
+        "chai-http": "^4.3.0",
+        "cross-env": "^7.0.3",
+        "mocha": "^10.2.0"
+    }
+}
