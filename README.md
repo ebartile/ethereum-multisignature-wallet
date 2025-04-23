@@ -61,6 +61,7 @@ This project is designed for server-side use by web developers managing Ethereum
 3. Build and run the project using Docker: (You will need to install docker if you have not done so)
 
     ```bash
+    ./server initialize
     ./server up
     ```
 
