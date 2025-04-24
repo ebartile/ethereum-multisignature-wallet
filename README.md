@@ -50,7 +50,7 @@ This project is designed for server-side use by web developers managing Ethereum
     ETHEREUM_MONGODB_URL='mongodb://root:password@localhost:27017/'
     ETHEREUM_MONGODB_NAME='ethereum-api'
     ETHEREUM_STORAGE_PATH='./storage'
-    ETHEREUM_LOGFILE='logs/ethereum.log'
+    ETHEREUM_LOGFILE='ethereum.log'
     ETHEREUM_KEYPATH=
     ETHEREUM_CRTPATH=
     ETHEREUM_ENV=test
