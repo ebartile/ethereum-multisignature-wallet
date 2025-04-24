@@ -104,7 +104,11 @@ If you'd like to support this project or contribute:
 📧 Email: **ebartile@gmail.com**  
 Hire Me: 🙌 
 
+💰 Bitcoin Address (SegWit): **bc1qcdsssmn2j439cdfx428l69545av95qxwp3hgfm**
+
 💰 Ethereum Address: **0xc62065388fa180ac44769b5252c8ee366be5569d**
+
+💰 Binance Address (BEP-20 Network): **0xc62065388fa180ac44769b5252c8ee366be5569d**
 
 ---
 
