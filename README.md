@@ -43,6 +43,7 @@ This project is designed for server-side use by web developers managing Ethereum
     #  Ethereum Config
     #  (refer to our doc)
     #--------------------------------------------------------------------------
+    APP_ENV=development
     DB_DATABASE=ethereum-api
     DB_USERNAME=root
     DB_PASSWORD=password
@@ -53,7 +54,6 @@ This project is designed for server-side use by web developers managing Ethereum
     ETHEREUM_LOGFILE='ethereum.log'
     ETHEREUM_KEYPATH=
     ETHEREUM_CRTPATH=
-    ETHEREUM_ENV=test
     ETHEREUM_BIND=localhost
     ETHEREUM_PORT=8000
     ```
